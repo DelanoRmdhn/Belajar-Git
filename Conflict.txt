@@ -1,4 +1,8 @@
 Halo -Delano
 konflik
 asdawwawdasdak - Delano
+<<<<<<< HEAD
 kimak
+=======
+github
+>>>>>>> master
